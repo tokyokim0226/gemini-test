@@ -1,0 +1,9 @@
+# Ignore service account key
+service_account.json
+
+# Ignore Python build/cache files
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
